@@ -1,0 +1,57 @@
+
+/* fondo  */
+
+.body{
+    background-color:black ;}
+
+/** fondo **/
+
+@font-face{
+    font-family: Megadeth;
+    src: url('../fuente/Megadeth.ttf');
+}
+
+ /** header caracteristicas **/
+ 
+    .header {
+      border-bottom: 2px solid white;
+      display: flex;
+      justify-content: space-around;
+      text-align: center;
+      font-family: Megadeth; 
+      }
+
+    .lista-desordenada{
+        list-style-type: none;
+        color: white;
+        display: flex;
+        justify-content: space-between
+         }
+   
+         nav a{
+        margin-right: 6rem;
+          }
+        
+/* Cambios al link */
+ a {
+    text-decoration: none;
+}
+ a:hover { 
+    cursor: hand;
+    text-decoration: underline;
+     color: white;}
+
+ a:visited {
+    color: white;}
+ 
+ /** header caracteristicas **/
+
+ 
+ 
+/* LOGO DISEÑO */
+  
+
+    /* LOGO DISEÑO */
+
+
+    
