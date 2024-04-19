@@ -39,19 +39,15 @@
  a:hover { 
     cursor: hand;
     text-decoration: underline;
-     color: white;}
+     color: white;
+    display: flex;}
 
  a:visited {
-    color: white;}
+    color: white;display: flex;}
  
+.carousel_slide{
+    display:flex;
+}
+
  /** header caracteristicas **/
-
- 
- 
-/* LOGO DISEÑO */
-  
-
-    /* LOGO DISEÑO */
-
-
     
